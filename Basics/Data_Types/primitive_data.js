@@ -4,7 +4,7 @@
 let age = 19;
 
 //Bigint data type
-let bigNumber = 958739485794385948;
+let bigNumber = 958739485794385948n;
 
 //string data type
 let myName = "Alex";
