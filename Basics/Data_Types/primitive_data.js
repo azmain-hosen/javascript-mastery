@@ -1,5 +1,10 @@
+//primitive data type
+
 //number date type
 let age = 19;
+
+//Bigint data type
+let bigNumber = 958739485794385948;
 
 //string data type
 let myName = "Alex";
@@ -14,6 +19,7 @@ let schoolFee;
 let specialDiscount = null;
 
 console.log(typeof age);
+console.log(typeof bigNumber);
 console.log(typeof myName);
 console.log(typeof schoolFee);
 console.log(typeof isStudent);
