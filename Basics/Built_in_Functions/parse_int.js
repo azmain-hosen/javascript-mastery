@@ -1,2 +1,2 @@
-const price = parseInt('200'); //This function is take a number of string and convert string to number
+const price = parseInt('200'); //This function is take a string and convert to Whole number
 console.log(price);
